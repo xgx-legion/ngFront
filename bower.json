@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "description": "angularJS Front",
+  "main": "index.js",
+  "authors": [
+    "xgx"
+  ],
+  "license": "n",
+  "homepage": "https://github.com/xgx-legion/ngFront",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5"
+  }
+}

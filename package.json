@@ -1,0 +1,21 @@
+{
+  "name": "ngFront",
+  "version": "1.0.0",
+  "description": "angularJS Front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgx-legion/ngFront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xgx-legion/ngFront/issues"
+  },
+  "homepage": "https://github.com/xgx-legion/ngFront#readme",
+  "dependencies": {}
+}
